@@ -1,0 +1,14 @@
+.container{
+    background-color: black;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    font-size: larger;
+    font-weight: 700;
+    gap: 10px;
+    padding: 10px;
+    cursor: pointer;
+}

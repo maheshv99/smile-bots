@@ -1,0 +1,38 @@
+.long-box{
+    width: max-content;
+    height: 100vh;
+    background-color: rgba(128, 128, 128, 0.101);
+    text-align: left;
+   
+}
+.search-bar input{
+    border: 0px;
+    height: 40px;
+    width: 200px;
+    font-weight: 700;
+    background-color:rgba(189, 189, 239, 0.618) !important;
+    padding-left: 20px;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
+.search-bar img{
+    position: absolute;
+    width: 25px;
+    left: 170px;
+    top: 65px;
+}
+.img1{
+    position:relative;
+    top: 3px;
+    left: 10px;
+}
+.fld-name{
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 12px;
+
+}
+.inside-folder{
+    margin-left: 35px;
+    margin-top: 20px;
+}

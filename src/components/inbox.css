@@ -1,0 +1,16 @@
+.li{
+    text-decoration: none;
+}
+.hed20{
+    margin-top: 90px !important;
+    margin-left: 20px;
+    background-color: antiquewhite;
+}
+.name{
+    font-weight: bold;
+    color: black;
+}
+.subj{
+    font-style: italic;
+    color: blue;
+}
